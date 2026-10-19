@@ -1,0 +1,160 @@
+ 0 STAGE_2_DVD_1            key=89540371 DVD (player photo) stage=2 cash=500 required=1 rating>=1 +0x34=4 +0x38=00000000 trigger=0E9EB8AA desc=9E101F9E
+     title: Bayview's Best
+     body:   /  / DVD cover awarded for building a 1 Star Car!
+ 1 STAGE_2_SHOW_1_PICTURE   key=B0DEDBEF Magazine (player photo) stage=2 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB8A9 desc=601462B5
+     title: Turbo
+     body:   / Magazine cover awarded for winning your 4th World Event in Stage 2!
+ 2 STAGE_2_SHOW_2_PICTURE   key=255B4CF0 Magazine  stage=2 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DAA desc=60145E23
+     title: Sports Compact Car
+     body:   / Magazine cover awarded for winning your 8th World Event in Stage 2!
+ 3 STAGE_3_DVD_1            key=D64E4032 DVD       stage=3 cash=500 required=1 rating>=2 +0x34=4 +0x38=00000000 trigger=4A5B6DAD desc=6298F309
+     title: Four on the Floor
+     body:   /  / DVD cover awarded for building a 2 Star Car!
+ 4 STAGE_3_DVD_2            key=D64E4033 DVD (player photo) stage=3 cash=500 required=1 rating>=3 +0x34=4 +0x38=00000000 trigger=0E9EB88C desc=601466BC
+     title: Underground Speed Zone
+     body:   /  / DVD cover awarded for building a 3 Star Car!
+ 5 STAGE_3_SHOW_1_PICTURE   key=BD1401D0 Magazine (player photo) stage=3 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB889 desc=9E1021D0
+     title: Street Car Magazine
+     body:   / Magazine cover awarded for winning your 2nd World Event in Stage 3!
+ 6 STAGE_3_SHOW_2_PICTURE   key=319072D1 Magazine  stage=3 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DAB desc=601417C3
+     title: Car Audio and Electronics
+     body:   / Magazine cover awarded for winning your 6th World Event in Stage 3!
+ 7 STAGE_3_SHOW_3_PICTURE   key=A60CE3D2 Magazine  stage=3 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DAC desc=60142B3B
+     title: GTI Magazine
+     body:   / Magazine cover awarded for winning your 16th World Event in Stage 5!
+ 8 STAGE_3_SHOW_4_PICTURE   key=1A8954D3 Magazine (player photo) stage=3 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB88A desc=9E102056
+     title: Hot 4's
+     body:   / Magazine cover awarded for winning your 18th World Event in Stage 3!
+ 9 STAGE_4_DVD_1            key=23487CF3 DVD (player photo) stage=4 cash=500 required=1 rating>=4 +0x34=4 +0x38=00000000 trigger=0E9EB88E desc=60145C24
+     title: Speed Demons 3
+     body:   /  / DVD cover awarded for building a 4 Star Car!
+10 STAGE_4_DVD_2            key=23487CF4 DVD       stage=4 cash=500 required=1 rating>=5 +0x34=4 +0x38=00000000 trigger=4A5B6DB1 desc=629CDEFC
+     title: Modified to the Max
+     body:   /  / DVD cover awarded for building a 5 Star Car!
+11 STAGE_4_DVD_3            key=23487CF5 DVD (player photo) stage=4 cash=500 required=1 rating>=6 +0x34=4 +0x38=00000000 trigger=0E9EB8B1 desc=9E101FB3
+     title: Burning Wheels
+     body:   /  / DVD cover awarded for building a 6 Star Car!
+12 STAGE_4_SHOW_1_PICTURE   key=C94927B1 Magazine  stage=4 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DAE desc=6014211A
+     title: Elaborare
+     body:   / Magazine cover awarded for winning your 3rd World Event in Stage 4!
+13 STAGE_4_SHOW_2_PICTURE   key=3DC598B2 Magazine (player photo) stage=4 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB8AB desc=9E10211B
+     title: Maxi Tuning
+     body:   / Magazine cover awarded for winning your 7th World Event in Stage 4!
+14 STAGE_4_SHOW_3_PICTURE   key=B24209B3 Magazine  stage=4 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DAF desc=9E1021DD
+     title: Spoiler
+     body:   / Magazine cover awarded for winning your 11th World Event in Stage 4!
+15 STAGE_4_SHOW_4_PICTURE   key=26BE7AB4 Magazine (player photo) stage=4 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB8AC desc=9E101F88
+     title: AutoMaxx Magazine
+     body:   / Magazine cover awarded for winning your 16th World Event in Stage 4!
+16 STAGE_4_SHOW_5_PICTURE   key=9B3AEBB5 Magazine  stage=4 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DB0 desc=60145E47
+     title: Stuff Magazine
+     body:   / Magazine cover awarded for winning your 20th World Event in Stage 4!
+17 STAGE_4_SHOW_6_PICTURE   key=0FB75CB6 Magazine (player photo) stage=4 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB8AD desc=601417C4
+     title: Chrom & Flammen
+     body:   / Magazine cover awarded for winning your 27th World Event in Stage 4!
+18 STAGE_5_DVD_1            key=7042B9B4 DVD       stage=5 cash=500 required=1 rating>=7 +0x34=4 +0x38=00000000 trigger=4A5B6DCE desc=60145BE1
+     title: Slammed & Stretched
+     body:   /  / DVD cover awarded for building a 7 Star Car!
+19 STAGE_5_DVD_2            key=7042B9B5 DVD (player photo) stage=5 cash=500 required=1 rating>=8 +0x34=4 +0x38=00000000 trigger=0E9EB8B0 desc=629FEDBA
+     title: Straight From the Streets IV
+     body:   /  / DVD cover awarded for building an 8 Star Car!
+20 STAGE_5_DVD_3            key=7042B9B6 DVD       stage=5 cash=500 required=1 rating>=9 +0x34=4 +0x38=00000000 trigger=4A5B6DCF desc=601459F4
+     title: Racing Street Unleashed
+     body:   /  / DVD cover awarded for building a 9 Star Car!
+21 STAGE_5_DVD_4            key=7042B9B7 DVD       stage=5 cash=500 required=1 rating>=10 +0x34=4 +0x38=00000000 trigger=4A5B6DD0 desc=62968B8E
+     title: Blacktop Bandits
+     body:   /  / DVD cover awarded for building a 10 Star Car!
+22 STAGE_5_SHOW_1_PICTURE   key=D57E4D92 Magazine  stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DB2 desc=9E102097
+     title: Import Tuner
+     body:   / Magazine cover awarded for winning your 4th World Event in Stage 5!
+23 STAGE_5_SHOW_2_PICTURE   key=49FABE93 Magazine (player photo) stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB88B desc=72ECA090
+     title: Street Car Magazine
+     body:   / Magazine cover awarded for winning your 9th World Event in Stage 5!
+24 STAGE_5_SHOW_3_PICTURE   key=BE772F94 Magazine  stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DCA desc=B5CBEFB2
+     title: GTI Magazine
+     body:   / Magazine cover awarded for winning your 11th World Event in Stage 3!
+25 STAGE_5_SHOW_4_PICTURE   key=32F3A095 Magazine (player photo) stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB8AF desc=601410DC
+     title: Auto Motor
+     body:   / Magazine cover awarded for winning your 20th World Event in Stage 5!
+26 STAGE_5_SHOW_5_PICTURE   key=A7701196 Magazine  stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DCB desc=60145EB8
+     title: Swiss Tuner Magazine
+     body:   / Magazine cover awarded for winning your 25th World Event in Stage 5!
+27 STAGE_5_SHOW_6_PICTURE   key=1BEC8297 Magazine  stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DCC desc=9E1021E0
+     title: Super Street
+     body:   / Magazine cover awarded for winning your 28th World Event in Stage 5!
+28 STAGE_5_SHOW_7_PICTURE   key=9068F398 Magazine (player photo) stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=0E9EB890 desc=9E102177
+     title: Power Magazine
+     body:   / Magazine cover awarded for winning your 32nd World Event in Stage 5!
+29 STAGE_5_SHOW_8_PICTURE   key=04E56499 Magazine  stage=5 cash=500 required=0 rating>=0 +0x34=3 +0x38=001A076F trigger=4A5B6DCD desc=9E1021E1
+     title: Street Tuner
+     body:   / Magazine cover awarded for winning your 34th World Event in Stage 5!
+
+SMS messages about showcases (0x34A17):
+   70 SMS_UNIQUE_S2_VISUAL_1           MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   71 SMS_MAG_S2_SHOW_2                MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   72 SMS_MAG_S2_SHOW_1                MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   73 SMS_MAG_STAGE_3_SHOW_4           MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   74 SMS_MAG_STAGE_3_SHOW_3           MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   75 SMS_MAG_STAGE_3_SHOW_2           MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   76 SMS_MAG_STAGE_3_SHOW_1           MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   77 SMS_UNIQUE_STAGE_3_VISUAL_2      MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   78 SMS_UNIQUE_STAGE_3_PERF_1        MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   79 SMS_MAG_STAGE_4_SHOW_1           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   80 SMS_MAG_STAGE_4_SHOW_2           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   81 SMS_MAG_STAGE_4_SHOW_3           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   82 SMS_MAG_STAGE_4_SHOW_4           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   83 SMS_MAG_STAGE_4_SHOW_5           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   84 SMS_MAG_STAGE_4_SHOW_6           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   85 SMS_UNIQUE_STAGE_4_VISUAL_3      MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   86 SMS_UNIQUE_STAGE_4_VISUAL_4      MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   87 SMS_UNIQUE_STAGE_4_PERF_2        MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   88 SMS_MAG_STAGE_5_SHOW_1           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   89 SMS_MAG_STAGE_5_SHOW_2           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   90 SMS_MAG_STAGE_5_SHOW_3           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   91 SMS_MAG_STAGE_5_SHOW_4           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   92 SMS_MAG_STAGE_5_SHOW_5           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   93 SMS_MAG_STAGE_5_SHOW_6           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   94 SMS_MAG_STAGE_5_SHOW_7           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   95 SMS_MAG_STAGE_5_SHOW_8           MagazineUnlock   count=0                      Showcase icon=3 auto=0 id=136 cash=0  
+   96 SMS_UNIQUE_STAGE_5_VISUAL_5      MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   97 SMS_UNIQUE_STAGE_5_PERF_3        MagazineUnlock   count=0                      Showcase icon=3 auto=1 id=136 cash=0  
+   98 SMS_DVD_COVER_1                  DVDUnlock        count=1                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Bayviews Best DVD cover! Head to the Star on 
+   99 SMS_DVD_COVER_2                  DVDUnlock        count=2                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Four on the Floor DVD cover! Head to the Star 
+  100 SMS_DVD_COVER_3                  DVDUnlock        count=3                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Underground Speed Zone DVD cover! Head to the 
+  101 SMS_DVD_COVER_4                  DVDUnlock        count=4                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Speed Demons 3 DVD cover! Head to the Star on 
+  102 SMS_DVD_COVER_5                  DVDUnlock        count=5                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Modified to the Max DVD cover! Head to the Sta
+  103 SMS_DVD_COVER_6                  DVDUnlock        count=6                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Burning Wheels DVD cover! Head to the Star on 
+  104 SMS_DVD_COVER_7                  DVDUnlock        count=7                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Slammed & Stretched DVD cover! Head to the Sta
+  105 SMS_DVD_COVER_8                  DVDUnlock        count=8                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Straight From the Streets IV DVD cover! Head t
+  106 SMS_DVD_COVER_9                  DVDUnlock        count=9                      Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Racing Street Unleashed DVD cover! Head to the
+  107 SMS_DVD_COVER_10                 DVDUnlock        count=10                     Showcase icon=3 auto=1 id=136 cash=0   / Congratulations, your car has been selected to appear on the Blacktop Bandits DVD cover! Head to the Star o
+
+World challenges (0x34A1B):
+   0 STAGE_2_SHOW_1               trig=TRIGGER_START_STAGE_2_SHOW_1 stage=2 ReqRegRacesWon>=4 type=Showcase dest=STAGE_2_SHOW_1_PICTURE time=120 parts=255,255,255
+   1 STAGE_2_SHOW_2               trig=TRIGGER_START_STAGE_2_SHOW_2 stage=2 ReqRegRacesWon>=8 type=Showcase dest=STAGE_2_SHOW_2_PICTURE time=120 parts=255,255,255
+   2 STAGE_2_VISUAL_1             trig=EVENT_LOCATOR_01             stage=2 ReqOutrunsWon>=4 type=Visual dest=2033AE7C time=60 parts=11,255,255
+   3 STAGE_3_SHOW_1               trig=TRIGGER_START_STAGE_3_SHOW_1 stage=3 ReqRegRacesWon>=2 type=Showcase dest=STAGE_3_SHOW_1_PICTURE time=170 parts=255,255,255
+   4 STAGE_3_SHOW_2               trig=TRIGGER_START_STAGE_3_SHOW_2 stage=3 ReqRegRacesWon>=6 type=Showcase dest=STAGE_3_SHOW_2_PICTURE time=105 parts=255,255,255
+   5 STAGE_3_SHOW_3               trig=TRIGGER_START_STAGE_3_SHOW_3 stage=3 ReqRegRacesWon>=11 type=Showcase dest=STAGE_3_SHOW_3_PICTURE time=110 parts=255,255,255
+   6 STAGE_3_SHOW_4               trig=TRIGGER_START_STAGE_3_SHOW_4 stage=3 ReqRegRacesWon>=18 type=Showcase dest=STAGE_3_SHOW_4_PICTURE time=120 parts=255,255,255
+   7 STAGE_3_PERF_1               trig=TRIGGER_START_STAGE_3_PERF_1 stage=3 ReqOutrunsWon>=3 type=Performance dest=4E79CD0A time=150 parts=1,5,7
+   8 STAGE_3_VISUAL_2             trig=TRIGGER_START_STAGE_3_VISUAL_2 stage=3 ReqOutrunsWon>=6 type=Visual dest=2033AE7C time=85 parts=13,255,255
+   9 STAGE_4_SHOW_1               trig=TRIGGER_START_STAGE_4_SHOW_1 stage=4 ReqRegRacesWon>=3 type=Showcase dest=STAGE_4_SHOW_1_PICTURE time=120 parts=255,255,255
+  10 STAGE_4_SHOW_2               trig=TRIGGER_START_STAGE_4_SHOW_2 stage=4 ReqRegRacesWon>=7 type=Showcase dest=STAGE_4_SHOW_2_PICTURE time=155 parts=255,255,255
+  11 STAGE_4_SHOW_3               trig=TRIGGER_START_STAGE_4_SHOW_3 stage=4 ReqRegRacesWon>=11 type=Showcase dest=STAGE_4_SHOW_3_PICTURE time=150 parts=255,255,255
+  12 STAGE_4_SHOW_4               trig=TRIGGER_START_STAGE_4_SHOW_4 stage=4 ReqRegRacesWon>=16 type=Showcase dest=STAGE_4_SHOW_4_PICTURE time=110 parts=255,255,255
+  13 STAGE_4_SHOW_5               trig=TRIGGER_START_STAGE_4_SHOW_5 stage=4 ReqRegRacesWon>=20 type=Showcase dest=STAGE_4_SHOW_5_PICTURE time=80 parts=255,255,255
+  14 STAGE_4_SHOW_6               trig=TRIGGER_START_STAGE_4_SHOW_6 stage=4 ReqRegRacesWon>=27 type=Showcase dest=STAGE_4_SHOW_6_PICTURE time=200 parts=255,255,255
+  15 STAGE_4_VISUAL_3             trig=TRIGGER_START_STAGE_4_VISUAL_3 stage=4 ReqOutrunsWon>=4 type=Visual dest=2033AE7C time=120 parts=12,255,255
+  16 STAGE_4_VISUAL_4             trig=TRIGGER_START_STAGE_4_VISUAL_4 stage=4 ReqOutrunsWon>=6 type=Visual dest=CB1B31D5 time=180 parts=62,255,255
+  17 STAGE_4_PERF_2               trig=TRIGGER_START_STAGE_4_PERF_2 stage=4 ReqOutrunsWon>=9 type=Performance dest=4E79CD0A time=90 parts=2,9,8
+  18 STAGE_5_SHOW_1               trig=TRIGGER_START_STAGE_5_SHOW_1 stage=5 ReqRegRacesWon>=4 type=Showcase dest=STAGE_5_SHOW_1_PICTURE time=105 parts=255,255,255
+  19 STAGE_5_SHOW_2               trig=TRIGGER_START_STAGE_5_SHOW_2 stage=5 ReqRegRacesWon>=9 type=Showcase dest=STAGE_5_SHOW_2_PICTURE time=170 parts=255,255,255
+  20 STAGE_5_SHOW_3               trig=TRIGGER_START_STAGE_5_SHOW_3 stage=5 ReqRegRacesWon>=16 type=Showcase dest=STAGE_5_SHOW_3_PICTURE time=90 parts=255,255,255
+  21 STAGE_5_SHOW_4               trig=TRIGGER_START_STAGE_5_SHOW_4 stage=5 ReqRegRacesWon>=20 type=Showcase dest=STAGE_5_SHOW_4_PICTURE time=75 parts=255,255,255
+  22 STAGE_5_SHOW_5               trig=TRIGGER_START_STAGE_5_SHOW_5 stage=5 ReqRegRacesWon>=25 type=Showcase dest=STAGE_5_SHOW_5_PICTURE time=75 parts=255,255,255
+  23 STAGE_5_SHOW_6               trig=TRIGGER_START_STAGE_5_SHOW_6 stage=5 ReqRegRacesWon>=28 type=Showcase dest=STAGE_5_SHOW_6_PICTURE time=45 parts=255,255,255
+  24 STAGE_5_SHOW_7               trig=TRIGGER_START_STAGE_5_SHOW_7 stage=5 ReqRegRacesWon>=32 type=Showcase dest=STAGE_5_SHOW_7_PICTURE time=75 parts=255,255,255
+  25 STAGE_5_SHOW_8               trig=TRIGGER_START_STAGE_5_SHOW_8 stage=5 ReqRegRacesWon>=34 type=Showcase dest=STAGE_5_SHOW_8_PICTURE time=105 parts=255,255,255
+  26 STAGE_5_PERF_3               trig=TRIGGER_START_STAGE_5_PERF_3 stage=5 ReqOutrunsWon>=6 type=Performance dest=4E79CD0A time=110 parts=4,6,3
+  27 STAGE_5_VISUAL_5             trig=TRIGGER_START_STAGE_5_VISUAL_5 stage=5 ReqOutrunsWon>=11 type=Visual dest=2033AE7C time=120 parts=22,255,255
